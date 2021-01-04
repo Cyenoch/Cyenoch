@@ -1,7 +1,7 @@
 - 🔭 Language: Dart, TypeScript, JavaScript, Java, Kotlin
 - 🔭 Framework: Flutter, Vue
 - 🔭 Platform: Android, Web
-- 🔭 Learning: C#, Kotlin, Java, Dart, Flutter, Vue
+- 🔭 Learning: digital keyboard
 - 👯 Steam: [Cyenoch](https://steamcommunity.com/id/cyenoch)
 - 📫 Contact: Don't contact me
 
